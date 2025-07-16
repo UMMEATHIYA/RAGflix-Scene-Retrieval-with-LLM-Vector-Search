@@ -72,4 +72,31 @@ os.environ["OPENAI_API_KEY"] = "your-openai-key-here"
 - Retrieves relevant scene
 - Rewrites it using GPT-4
 - Returns a beautifully formatted result
+---
 
+## Sample Demo
+
+<img width="1798" height="662" alt="image" src="https://github.com/user-attachments/assets/fbe1ee97-7503-4740-b025-b0b67ede6cb4" />
+
+---
+<img width="1606" height="672" alt="image" src="https://github.com/user-attachments/assets/ffa405af-04c3-4d35-8b3e-019b602442e2" />
+
+---
+
+<img width="996" height="738" alt="image" src="https://github.com/user-attachments/assets/ee004385-02fe-4c18-a3a5-3bacd5347568" />
+
+---
+
+## 💡 Future Improvements
+- 🎞️ Multimodal support (subtitles + video)
+- 🎛️ UI with Gradio or Streamlit
+- 💾 Save favorite scenes as journals
+- 🧠 Long-term memory with LangChain + Pinecone
+
+---
+
+## 📬 Contact
+- Umme Athiya – Applied AI/ML Engineer
+- 📍 Chicago, IL
+- 🔗 GitHub | LinkedIn
+- 📫 Email: uathiya4@gmail.com
